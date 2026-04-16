@@ -571,17 +571,17 @@ Abrí `operaciones.c`. Vas a ver algo así:
 
 ```c
 int esPar(int n) {
-<<<<<<< HEAD
+
     return (n % 2) == 0; /* version main */
-=======
+
     return (n & 1) == 0;
->>>>>>> origin/feature/conflicto-demo
+ origin/feature/conflicto-demo
 }
 ```
 
-- `<<<<<<< HEAD` marca el inicio de **tu versión** (la de main)
-- `=======` separa las dos versiones
-- `>>>>>>> origin/feature/conflicto-demo` marca el fin de **la versión entrante**
+-  marca el inicio de **tu versión** (la de main)
+-  separa las dos versiones
+- origin/feature/conflicto-demo` marca el fin de **la versión entrante**
 
 ---
 
@@ -744,4 +744,8 @@ Para ver los resultados:
 También podés ver un resumen rápido: en la pestaña **Code**, junto a cada commit aparece un ícono ✅ (todos los checks pasaron) o ❌ (alguno falló). Hacé click en ese ícono para ver el detalle.
 
 El puntaje mínimo para aprobar es **60 / 100**.
+<<<<<<< HEAD
+ajuste para PR
+=======
 cambio sugerencia
+>>>>>>> a0c17459309dd991be3046a6cb1a29721aff2685
