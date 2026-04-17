@@ -744,11 +744,7 @@ Para ver los resultados:
 También podés ver un resumen rápido: en la pestaña **Code**, junto a cada commit aparece un ícono ✅ (todos los checks pasaron) o ❌ (alguno falló). Hacé click en ese ícono para ver el detalle.
 
 El puntaje mínimo para aprobar es **60 / 100**.
-<<<<<<< HEAD
-ajuste para PR
-=======
-cambio sugerencia
->>>>>>> a0c17459309dd991be3046a6cb1a29721aff2685
+
 trigger final
 ajuste final posta
 trigger final 2
