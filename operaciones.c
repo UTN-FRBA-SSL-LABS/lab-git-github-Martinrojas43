@@ -24,4 +24,4 @@ int esPar(int n) {
     return (n % 2) == 0;
 }
 
-//Buen manejo de variables en la actividad
+// Multiplica dos números enteros utilizando el operador *
