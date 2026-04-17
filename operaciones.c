@@ -24,4 +24,4 @@ int esPar(int n) {
     return (n % 2) == 0;
 }
 
-//comentario compartido
+// Multiplica dos números enteros utilizando el operador *
