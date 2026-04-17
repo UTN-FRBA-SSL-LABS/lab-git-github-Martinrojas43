@@ -23,3 +23,5 @@ int multiplicar(int a, int b) {
 int esPar(int n) {
     return (n % 2) == 0;
 }
+
+// Multiplica dos números enteros utilizando el operador *
