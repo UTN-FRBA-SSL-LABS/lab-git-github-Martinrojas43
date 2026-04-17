@@ -748,3 +748,4 @@ El puntaje mínimo para aprobar es **60 / 100**.
 trigger final
 ajuste final posta
 trigger final 2
+
