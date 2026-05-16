@@ -745,7 +745,3 @@ También podés ver un resumen rápido: en la pestaña **Code**, junto a cada co
 
 El puntaje mínimo para aprobar es **60 / 100**.
 
-trigger final
-ajuste final posta
-trigger final 2
-
